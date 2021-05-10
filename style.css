@@ -25,7 +25,7 @@ align-items: center;
   background-color: white;
   border-radius: 100vw 100vw 0 0;
   margin-left: 50vw;
-  height: 33rem;
+  height: 0rem;
   width:1rem;
   bottom: 23%;
     box-shadow: 0 0 2.5em hsl(var(--blade-hue) 100%  50% / 1),
